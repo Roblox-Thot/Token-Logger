@@ -1,4 +1,4 @@
-# A very basic Discord token logger in Python
+# A very basic Discord token finder in Python
 
 Script will only log into console if you want any thing else you will have to do it yourself as I will not help you!
 
